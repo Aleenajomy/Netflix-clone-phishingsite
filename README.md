@@ -1,1 +1,1 @@
-# Netflix-clone-phishingsite
+# Netflix-clone-phishing-site
