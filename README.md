@@ -1,6 +1,3 @@
-# Netflix-clone-phishing-site
-
-
 # 🎬 Netflix-Clone Phishing Site
 
 📧 **Phishing Awareness Campaign – Netflix Clone Project**  
